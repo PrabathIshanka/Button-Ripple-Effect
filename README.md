@@ -4,8 +4,7 @@ This project demonstrates a button with a ripple effect using HTML, CSS, and Jav
 
 ## Demo
 
-[Include a screenshot or a GIF of the button in action]
-
+![Demo of the button ripple effect](images/demo.gif)
 ## Features
 
 - Centered button with ripple effect on hover
