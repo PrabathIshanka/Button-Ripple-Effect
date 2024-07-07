@@ -21,9 +21,9 @@ git clone https://github.com/PrabathIshanka/button-ripple-effect.git
 ```
 
 2. Navigate to the project directory:
-    ```sh
+```sh
     cd button-ripple-effect
-    ```
+```
 
 ## Usage
 Open the `index.html` file in your web browser to view the auto text effect animation.
