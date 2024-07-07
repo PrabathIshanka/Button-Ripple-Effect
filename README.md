@@ -22,7 +22,7 @@ git clone https://github.com/PrabathIshanka/button-ripple-effect.git
 
 2. Navigate to the project directory:
 ```sh
-    cd button-ripple-effect
+cd button-ripple-effect
 ```
 
 ## Usage
